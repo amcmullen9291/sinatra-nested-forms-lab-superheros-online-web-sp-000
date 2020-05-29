@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 class SuperHero 
-=======
-class SupeHero 
   attr_accessor :name, :power, :bio
   @@all = []
   def initialize(params)
